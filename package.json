@@ -2,6 +2,7 @@
   "name": "hospital-cloud-desktop",
   "version": "1.0.0",
   "private": true,
+  "homepage": ".",
   "dependencies": {
     "@ant-design/icons": "^5.0.1",
     "antd": "^5.4.0",
