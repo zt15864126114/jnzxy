@@ -72,7 +72,19 @@ function App() {
     <Router>
       <Layout style={{ minHeight: '100vh' }}>
         <Sider width={200}>
-          <div className="logo" style={{ height: 32, margin: 16, background: 'rgba(255, 255, 255, 0.2)' }} />
+          <div className="logo" style={{ 
+            height: 32, 
+            margin: 16, 
+            background: 'rgba(255, 255, 255, 0.2)',
+            color: '#fff',
+            fontSize: '16px',
+            fontWeight: 'bold',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center'
+          }}>
+            桌面管理系统
+          </div>
           <Menu theme="dark" mode="inline" defaultSelectedKeys={['1']} items={menuItems} />
         </Sider>
         <Layout>
