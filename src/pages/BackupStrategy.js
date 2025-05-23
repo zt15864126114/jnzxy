@@ -179,7 +179,7 @@ const mockData = [
     schedule: '每周五 23:00',
     retention: '90天',
     status: '正常',
-    lastBackup: '2025-03-15 23:00:00',
+    lastBackup: '2024-08-23 23:00:00',
   },
   {
     id: 16,

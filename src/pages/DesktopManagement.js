@@ -14,7 +14,7 @@ const mockData = [
     template: '门诊医生工作站模板',
     status: '运行中',
     ip: '192.168.1.101',
-    createTime: '2025-03-15 10:00:00',
+    createTime: '2024-08-23 10:00:00',
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const mockData = [
     template: '住院护士工作站模板',
     status: '运行中',
     ip: '192.168.1.102',
-    createTime: '2025-03-15 10:30:00',
+    createTime: '2024-08-23 10:30:00',
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const mockData = [
     template: '放射科工作站模板',
     status: '运行中',
     ip: '192.168.1.103',
-    createTime: '2025-03-15 11:00:00',
+    createTime: '2024-08-23 11:00:00',
   },
   {
     id: 4,
@@ -44,7 +44,7 @@ const mockData = [
     template: '药房工作站模板',
     status: '运行中',
     ip: '192.168.1.104',
-    createTime: '2025-03-15 11:30:00',
+    createTime: '2024-08-23 11:30:00',
   },
   {
     id: 5,
@@ -54,7 +54,7 @@ const mockData = [
     template: '收费处工作站模板',
     status: '运行中',
     ip: '192.168.1.105',
-    createTime: '2025-03-15 12:00:00',
+    createTime: '2024-08-23 12:00:00',
   },
   {
     id: 6,
@@ -64,7 +64,7 @@ const mockData = [
     template: '手术室工作站模板',
     status: '已停止',
     ip: '192.168.1.106',
-    createTime: '2025-03-15 12:30:00',
+    createTime: '2024-08-23 12:30:00',
   },
   {
     id: 7,
@@ -74,7 +74,7 @@ const mockData = [
     template: '急诊科工作站模板',
     status: '运行中',
     ip: '192.168.1.107',
-    createTime: '2025-03-15 13:00:00',
+    createTime: '2024-08-23 13:00:00',
   },
   {
     id: 8,
@@ -84,7 +84,7 @@ const mockData = [
     template: '超声科工作站模板',
     status: '运行中',
     ip: '192.168.1.108',
-    createTime: '2025-03-15 13:30:00',
+    createTime: '2024-08-23 13:30:00',
   },
   {
     id: 9,
@@ -94,7 +94,7 @@ const mockData = [
     template: '病理科工作站模板',
     status: '运行中',
     ip: '192.168.1.109',
-    createTime: '2025-03-15 14:00:00',
+    createTime: '2024-08-23 14:00:00',
   },
   {
     id: 10,
@@ -104,7 +104,7 @@ const mockData = [
     template: '检验科工作站模板',
     status: '运行中',
     ip: '192.168.1.110',
-    createTime: '2025-03-15 14:30:00',
+    createTime: '2024-08-23 14:30:00',
   },
   {
     id: 11,
@@ -114,7 +114,7 @@ const mockData = [
     template: '内镜中心工作站模板',
     status: '已停止',
     ip: '192.168.1.111',
-    createTime: '2025-03-15 15:00:00',
+    createTime: '2024-08-23 15:00:00',
   },
   {
     id: 12,
@@ -124,7 +124,7 @@ const mockData = [
     template: '行政办公工作站模板',
     status: '运行中',
     ip: '192.168.1.112',
-    createTime: '2025-03-15 15:30:00',
+    createTime: '2024-08-23 15:30:00',
   },
   {
     id: 13,
@@ -134,7 +134,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '行政办公工作站标准配置，包含OA、财务等办公软件',
-    createTime: '2025-03-15 16:00:00',
+    createTime: '2024-08-23 16:00:00',
   },
   {
     id: 14,
@@ -144,7 +144,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '人事管理工作站标准配置，包含人事管理系统',
-    createTime: '2025-03-15 16:30:00',
+    createTime: '2024-08-23 16:30:00',
   },
   {
     id: 15,
@@ -154,7 +154,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '财务工作站标准配置，包含财务管理系统',
-    createTime: '2025-03-15 17:00:00',
+    createTime: '2024-08-23 17:00:00',
   },
   {
     id: 16,
@@ -164,7 +164,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '设备管理工作站标准配置，包含设备管理系统',
-    createTime: '2025-03-15 17:30:00',
+    createTime: '2024-08-23 17:30:00',
   },
   {
     id: 17,
@@ -174,7 +174,7 @@ const mockData = [
     memory: '32GB',
     disk: '1TB SSD',
     description: '科研工作站高性能配置，适用于数据分析、科研软件等',
-    createTime: '2025-03-15 18:00:00',
+    createTime: '2024-08-23 18:00:00',
   },
   {
     id: 18,
@@ -184,7 +184,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '教学工作站标准配置，包含教学软件、多媒体工具等',
-    createTime: '2025-03-15 18:30:00',
+    createTime: '2024-08-23 18:30:00',
   },
   {
     id: 19,
@@ -194,7 +194,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '后勤工作站标准配置，包含后勤管理系统',
-    createTime: '2025-03-15 19:00:00',
+    createTime: '2024-08-23 19:00:00',
   },
   {
     id: 20,
@@ -204,7 +204,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '医保工作站标准配置，包含医保结算系统',
-    createTime: '2025-03-15 19:30:00',
+    createTime: '2024-08-23 19:30:00',
   },
   {
     id: 21,
@@ -214,7 +214,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '病案管理工作站标准配置，包含病案管理系统',
-    createTime: '2025-03-15 20:00:00',
+    createTime: '2024-08-23 20:00:00',
   },
   {
     id: 22,
@@ -224,7 +224,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '护理管理工作站标准配置，包含护理管理系统',
-    createTime: '2025-03-15 20:30:00',
+    createTime: '2024-08-23 20:30:00',
   },
   {
     id: 23,
@@ -234,7 +234,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '医患沟通工作站标准配置，包含医患沟通系统',
-    createTime: '2025-03-15 21:00:00',
+    createTime: '2024-08-23 21:00:00',
   },
   {
     id: 24,
@@ -244,7 +244,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '预约挂号工作站标准配置，包含预约挂号系统',
-    createTime: '2025-03-15 21:30:00',
+    createTime: '2024-08-23 21:30:00',
   },
   {
     id: 25,
@@ -254,7 +254,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '药品管理工作站标准配置，包含药品管理系统',
-    createTime: '2025-03-15 22:00:00',
+    createTime: '2024-08-23 22:00:00',
   },
   {
     id: 26,
@@ -264,7 +264,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '耗材管理工作站标准配置，包含耗材管理系统',
-    createTime: '2025-03-15 22:30:00',
+    createTime: '2024-08-23 22:30:00',
   },
   {
     id: 27,
@@ -274,7 +274,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '绩效管理工作站标准配置，包含绩效管理系统',
-    createTime: '2025-03-15 23:00:00',
+    createTime: '2024-08-23 23:00:00',
   },
   {
     id: 28,
@@ -284,7 +284,7 @@ const mockData = [
     memory: '8GB',
     disk: '256GB SSD',
     description: '科研项目管理工作站标准配置，包含科研项目管理系统',
-    createTime: '2025-03-15 23:30:00',
+    createTime: '2024-08-23 23:30:00',
   },
   {
     id: 29,
