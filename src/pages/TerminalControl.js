@@ -14,7 +14,7 @@ const mockData = [
     department: '门诊部',
     location: '门诊楼3层内科诊室',
     status: '在线',
-    lastOnline: '2025-03-20 08:30:00',
+    lastOnline: '2025-05-23 08:30:00',
   },
   {
     id: 2,
@@ -24,7 +24,7 @@ const mockData = [
     department: '住院部',
     location: '住院楼5层护士站',
     status: '在线',
-    lastOnline: '2025-03-20 08:15:00',
+    lastOnline: '2025-05-23 08:15:00',
   },
   {
     id: 3,
@@ -34,7 +34,7 @@ const mockData = [
     department: '医技科室',
     location: '医技楼2层检验科',
     status: '离线',
-    lastOnline: '2025-03-19 18:00:00',
+    lastOnline: '2025-05-22 18:00:00',
   },
   {
     id: 4,
@@ -44,7 +44,7 @@ const mockData = [
     department: '药房',
     location: '门诊楼1层药房',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 5,
@@ -54,7 +54,7 @@ const mockData = [
     department: '收费处',
     location: '门诊楼1层收费处',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 6,
@@ -64,7 +64,7 @@ const mockData = [
     department: '手术室',
     location: '住院楼6层手术室',
     status: '在线',
-    lastOnline: '2025-03-20 07:30:00',
+    lastOnline: '2025-05-23 07:30:00',
   },
   {
     id: 7,
@@ -74,7 +74,7 @@ const mockData = [
     department: '急诊科',
     location: '急诊楼1层诊室',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 8,
@@ -84,7 +84,7 @@ const mockData = [
     department: '放射科',
     location: '医技楼1层放射科',
     status: '在线',
-    lastOnline: '2025-03-20 07:45:00',
+    lastOnline: '2025-05-23 07:45:00',
   },
   {
     id: 9,
@@ -94,7 +94,7 @@ const mockData = [
     department: '超声科',
     location: '医技楼2层超声科',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 10,
@@ -104,7 +104,7 @@ const mockData = [
     department: '病理科',
     location: '医技楼3层病理科',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 11,
@@ -114,7 +114,7 @@ const mockData = [
     department: '检验科',
     location: '医技楼2层检验科',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 12,
@@ -124,7 +124,7 @@ const mockData = [
     department: '内镜中心',
     location: '医技楼3层内镜中心',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 13,
@@ -134,7 +134,7 @@ const mockData = [
     department: '门诊部',
     location: '门诊楼3层外科诊室',
     status: '在线',
-    lastOnline: '2025-03-20 08:30:00',
+    lastOnline: '2025-05-23 08:30:00',
   },
   {
     id: 14,
@@ -144,7 +144,7 @@ const mockData = [
     department: '住院部',
     location: '住院楼6层护士站',
     status: '在线',
-    lastOnline: '2025-03-20 08:15:00',
+    lastOnline: '2025-05-23 08:15:00',
   },
   {
     id: 15,
@@ -154,7 +154,7 @@ const mockData = [
     department: '医技科室',
     location: '医技楼2层检验科',
     status: '离线',
-    lastOnline: '2025-03-19 18:00:00',
+    lastOnline: '2025-05-22 18:00:00',
   },
   {
     id: 16,
@@ -164,7 +164,7 @@ const mockData = [
     department: '药房',
     location: '住院楼1层药房',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 17,
@@ -174,7 +174,7 @@ const mockData = [
     department: '收费处',
     location: '住院楼1层收费处',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 18,
@@ -184,7 +184,7 @@ const mockData = [
     department: '手术室',
     location: '住院楼6层手术室',
     status: '在线',
-    lastOnline: '2025-03-20 07:30:00',
+    lastOnline: '2025-05-23 07:30:00',
   },
   {
     id: 19,
@@ -194,7 +194,7 @@ const mockData = [
     department: '急诊科',
     location: '急诊楼1层诊室',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 20,
@@ -204,7 +204,7 @@ const mockData = [
     department: '放射科',
     location: '医技楼1层放射科',
     status: '在线',
-    lastOnline: '2025-03-20 07:45:00',
+    lastOnline: '2025-05-23 07:45:00',
   },
   {
     id: 21,
@@ -214,7 +214,7 @@ const mockData = [
     department: '超声科',
     location: '医技楼2层超声科',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 22,
@@ -224,7 +224,7 @@ const mockData = [
     department: '病理科',
     location: '医技楼3层病理科',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 23,
@@ -234,7 +234,7 @@ const mockData = [
     department: '检验科',
     location: '医技楼2层检验科',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 24,
@@ -244,7 +244,7 @@ const mockData = [
     department: '内镜中心',
     location: '医技楼3层内镜中心',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 25,
@@ -254,7 +254,7 @@ const mockData = [
     department: '门诊部',
     location: '门诊楼3层儿科诊室',
     status: '在线',
-    lastOnline: '2025-03-20 08:30:00',
+    lastOnline: '2025-05-23 08:30:00',
   },
   {
     id: 26,
@@ -264,7 +264,7 @@ const mockData = [
     department: '住院部',
     location: '住院楼7层护士站',
     status: '在线',
-    lastOnline: '2025-03-20 08:15:00',
+    lastOnline: '2025-05-23 08:15:00',
   },
   {
     id: 27,
@@ -274,7 +274,7 @@ const mockData = [
     department: '医技科室',
     location: '医技楼2层检验科',
     status: '离线',
-    lastOnline: '2025-03-19 18:00:00',
+    lastOnline: '2025-05-22 18:00:00',
   },
   {
     id: 28,
@@ -284,7 +284,7 @@ const mockData = [
     department: '药房',
     location: '急诊楼1层药房',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 29,
@@ -294,7 +294,7 @@ const mockData = [
     department: '收费处',
     location: '急诊楼1层收费处',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 30,
@@ -304,7 +304,7 @@ const mockData = [
     department: '手术室',
     location: '住院楼7层手术室',
     status: '在线',
-    lastOnline: '2025-03-20 07:30:00',
+    lastOnline: '2025-05-23 07:30:00',
   },
   {
     id: 31,
@@ -314,7 +314,7 @@ const mockData = [
     department: '急诊科',
     location: '急诊楼1层诊室',
     status: '在线',
-    lastOnline: '2025-03-20 08:00:00',
+    lastOnline: '2025-05-23 08:00:00',
   },
   {
     id: 32,
@@ -324,7 +324,7 @@ const mockData = [
     department: '放射科',
     location: '医技楼1层放射科',
     status: '在线',
-    lastOnline: '2025-03-20 07:45:00',
+    lastOnline: '2025-05-23 07:45:00',
   }
 ];
 
